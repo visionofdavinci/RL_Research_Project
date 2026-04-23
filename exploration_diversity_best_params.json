@@ -1,0 +1,16 @@
+{
+  "model": "exploration_diversity",
+  "best_value": 311.334,
+  "best_params": {
+    "gamma": 0.971020723025622,
+    "alpha": 0.00018264030220002184,
+    "batch_size": 32,
+    "buffer_capacity": 5000,
+    "update_target_every": 19,
+    "epsilon_decay": 0.9958214730179011,
+    "epsilon_min": 0.08355141520465736,
+    "uniform_episode_training_cap": 1638
+  },
+  "total_time_hours": 19.279959139166667,
+  "timestamp": "2025-10-17T07:56:29.931536"
+}

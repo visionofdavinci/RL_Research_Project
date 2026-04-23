@@ -1,0 +1,220 @@
+12:39:42 [MainThread     ] Logging to: training_20251016_123942.log
+
+12:39:42 [MainThread     ] ================================================================================
+12:39:42 [MainThread     ] STARTING THREADED HYPERPARAMETER OPTIMIZATION
+12:39:42 [MainThread     ] Trials per model: 10
+12:39:42 [MainThread     ] Episodes per trial: 2500
+12:39:42 [MainThread     ] ================================================================================
+12:39:42 [baseline_thread] 
+============================================================
+12:39:42 [MainThread     ] Started thread for baseline
+12:39:42 [baseline_thread]  BASELINE - OPTIMIZATION STARTED
+12:39:42 [strati_buff_thread] 
+============================================================
+12:39:42 [MainThread     ] Started thread for strati_buff
+12:39:42 [baseline_thread] ============================================================
+
+12:39:42 [strati_buff_thread]  STRATI_BUFF - OPTIMIZATION STARTED
+12:39:42 [acl_thread     ] 
+============================================================
+12:39:42 [MainThread     ] Started thread for acl
+12:39:42 [strati_buff_thread] ============================================================
+
+12:39:42 [baseline_thread] BASELINE Trial 1/10 STARTED
+12:39:42 [acl_thread     ]  ACL - OPTIMIZATION STARTED
+12:39:42 [exploration_diversity_thread] 
+============================================================
+12:39:42 [MainThread     ] Started thread for exploration_diversity
+12:39:42 [strati_buff_thread] STRATI-BUFF Trial 1/10 STARTED
+12:39:42 [acl_thread     ] ============================================================
+
+12:39:42 [exploration_diversity_thread]  EXPLORATION_DIVERSITY - OPTIMIZATION STARTED
+12:39:42 [exploration_diversity_thread] ============================================================
+
+12:39:42 [acl_thread     ] ACL Trial 1/10 STARTED
+12:39:42 [exploration_diversity_thread] EXPLORATION Trial 1/10 STARTED
+14:44:18 [baseline_thread] BASELINE Trial 1/10 DONE | Score: 82.27 | Time: 124.6min
+14:44:18 [baseline_thread] BASELINE Trial 2/10 STARTED
+16:27:12 [exploration_diversity_thread] EXPLORATION Trial 1/10 DONE | Score: 109.84 | Time: 227.5min
+16:27:12 [exploration_diversity_thread] EXPLORATION Trial 2/10 STARTED
+18:36:20 [acl_thread     ] ACL Trial 1/10 DONE | Score: 252.23 | Time: 356.6min
+18:36:20 [acl_thread     ] ACL Trial 2/10 STARTED
+19:24:57 [acl_thread     ] ACL Trial 2/10 DONE | Score: 124.80 | Time: 48.6min
+19:24:57 [acl_thread     ] ACL Trial 3/10 STARTED
+19:38:10 [baseline_thread] BASELINE Trial 2/10 DONE | Score: 249.26 | Time: 293.9min
+19:38:10 [baseline_thread] BASELINE Trial 3/10 STARTED
+20:22:18 [strati_buff_thread] STRATI-BUFF Trial 1/10 DONE | Score: 331.40 | Time: 462.6min
+20:22:18 [strati_buff_thread] STRATI-BUFF Trial 2/10 STARTED
+20:24:51 [exploration_diversity_thread] EXPLORATION Trial 2/10 DONE | Score: 303.94 | Time: 237.7min
+20:24:51 [exploration_diversity_thread] EXPLORATION Trial 3/10 STARTED
+20:38:11 [acl_thread     ] ACL Trial 3/10 DONE | Score: 160.01 | Time: 73.2min
+20:38:11 [acl_thread     ] ACL Trial 4/10 STARTED
+21:49:48 [strati_buff_thread] STRATI-BUFF Trial 2/10 DONE | Score: 122.03 | Time: 87.5min
+21:49:48 [strati_buff_thread] STRATI-BUFF Trial 3/10 STARTED
+22:10:30 [baseline_thread] BASELINE Trial 3/10 DONE | Score: 323.53 | Time: 152.3min
+22:10:30 [baseline_thread] BASELINE Trial 4/10 STARTED
+22:33:57 [exploration_diversity_thread] EXPLORATION Trial 3/10 DONE | Score: 311.33 | Time: 129.1min
+22:33:57 [exploration_diversity_thread] EXPLORATION Trial 4/10 STARTED
+22:48:35 [acl_thread     ] ACL Trial 4/10 DONE | Score: 292.65 | Time: 130.4min
+22:48:35 [acl_thread     ] ACL Trial 5/10 STARTED
+23:42:35 [acl_thread     ] ACL Trial 5/10 DONE | Score: 103.58 | Time: 54.0min
+23:42:35 [acl_thread     ] ACL Trial 6/10 STARTED
+23:46:37 [exploration_diversity_thread] EXPLORATION Trial 4/10 DONE | Score: 104.70 | Time: 72.7min
+23:46:37 [exploration_diversity_thread] EXPLORATION Trial 5/10 STARTED
+00:10:20 [acl_thread     ] ACL Trial 6/10 DONE | Score: 65.87 | Time: 27.8min
+00:10:20 [acl_thread     ] ACL Trial 7/10 STARTED
+00:22:45 [baseline_thread] BASELINE Trial 4/10 DONE | Score: 353.56 | Time: 132.3min
+00:22:45 [baseline_thread] BASELINE Trial 5/10 STARTED
+00:29:12 [strati_buff_thread] STRATI-BUFF Trial 3/10 DONE | Score: 234.49 | Time: 159.4min
+00:29:12 [strati_buff_thread] STRATI-BUFF Trial 4/10 STARTED
+00:54:30 [acl_thread     ] ACL Trial 7/10 DONE | Score: 58.09 | Time: 44.2min
+00:54:30 [acl_thread     ] ACL Trial 8/10 STARTED
+01:44:43 [strati_buff_thread] STRATI-BUFF Trial 4/10 DONE | Score: 113.25 | Time: 75.5min
+01:44:43 [strati_buff_thread] STRATI-BUFF Trial 5/10 STARTED
+01:57:55 [exploration_diversity_thread] EXPLORATION Trial 5/10 DONE | Score: 257.67 | Time: 131.3min
+01:57:55 [exploration_diversity_thread] EXPLORATION Trial 6/10 STARTED
+02:09:19 [baseline_thread] BASELINE Trial 5/10 DONE | Score: 188.50 | Time: 106.6min
+02:09:19 [baseline_thread] BASELINE Trial 6/10 STARTED
+02:23:27 [acl_thread     ] ACL Trial 8/10 DONE | Score: 123.14 | Time: 88.9min
+02:23:27 [acl_thread     ] ACL Trial 9/10 STARTED
+02:57:13 [baseline_thread] BASELINE Trial 6/10 DONE | Score: 104.37 | Time: 47.9min
+02:57:13 [baseline_thread] BASELINE Trial 7/10 STARTED
+03:29:18 [baseline_thread] BASELINE Trial 7/10 DONE | Score: 78.54 | Time: 32.1min
+03:29:18 [baseline_thread] BASELINE Trial 8/10 STARTED
+03:30:06 [exploration_diversity_thread] EXPLORATION Trial 6/10 DONE | Score: 286.41 | Time: 92.2min
+03:30:06 [exploration_diversity_thread] EXPLORATION Trial 7/10 STARTED
+04:35:35 [strati_buff_thread] STRATI-BUFF Trial 5/10 DONE | Score: 336.64 | Time: 170.9min
+04:35:35 [strati_buff_thread] STRATI-BUFF Trial 6/10 STARTED
+04:41:07 [exploration_diversity_thread] EXPLORATION Trial 7/10 DONE | Score: 226.48 | Time: 71.0min
+04:41:07 [exploration_diversity_thread] EXPLORATION Trial 8/10 STARTED
+04:45:57 [acl_thread     ] ACL Trial 9/10 DONE | Score: 310.87 | Time: 142.5min
+04:45:57 [acl_thread     ] ACL Trial 10/10 STARTED
+05:47:06 [exploration_diversity_thread] EXPLORATION Trial 8/10 DONE | Score: 147.40 | Time: 66.0min
+05:47:06 [exploration_diversity_thread] EXPLORATION Trial 9/10 STARTED
+06:01:04 [baseline_thread] BASELINE Trial 8/10 DONE | Score: 364.74 | Time: 151.8min
+06:01:04 [baseline_thread] BASELINE Trial 9/10 STARTED
+06:18:33 [acl_thread     ] ACL Trial 10/10 DONE | Score: 256.06 | Time: 92.6min
+06:18:33 [acl_thread     ] 
+============================================================
+06:18:33 [acl_thread     ] ACL - OPTIMIZATION COMPLETE
+06:18:33 [acl_thread     ]    Best Score: 310.87
+06:18:33 [acl_thread     ]    Total Time: 17.65 hours
+06:18:33 [acl_thread     ]    Best Params: {'gamma': 0.9968089560231825, 'alpha': 0.00038225398443744675, 'batch_size': 32, 'buffer_capacity': 10000, 'update_target_every': 12, 'epsilon_decay': 0.9970436557796943, 'epsilon_min': 0.07318087530582228, 'uniform_episode_training_cap': 1606}
+06:18:33 [acl_thread     ] ============================================================
+
+06:36:33 [strati_buff_thread] STRATI-BUFF Trial 6/10 DONE | Score: 252.71 | Time: 121.0min
+06:36:33 [strati_buff_thread] STRATI-BUFF Trial 7/10 STARTED
+06:46:15 [exploration_diversity_thread] EXPLORATION Trial 9/10 DONE | Score: 192.58 | Time: 59.2min
+06:46:15 [exploration_diversity_thread] EXPLORATION Trial 10/10 STARTED
+06:58:45 [baseline_thread] BASELINE Trial 9/10 DONE | Score: 99.89 | Time: 57.7min
+06:58:45 [baseline_thread] BASELINE Trial 10/10 STARTED
+07:39:33 [baseline_thread] BASELINE Trial 10/10 DONE | Score: 105.82 | Time: 40.8min
+07:39:33 [baseline_thread] 
+============================================================
+07:39:33 [baseline_thread] BASELINE - OPTIMIZATION COMPLETE
+07:39:33 [baseline_thread]    Best Score: 364.74
+07:39:33 [baseline_thread]    Total Time: 19.00 hours
+07:39:33 [baseline_thread]    Best Params: {'gamma': 0.9912975879835498, 'alpha': 0.00019346542183274558, 'batch_size': 32, 'buffer_capacity': 10000, 'update_target_every': 6, 'epsilon_decay': 0.9973976177726743, 'epsilon_min': 0.016384116769024806}
+07:39:33 [baseline_thread] ============================================================
+
+07:56:29 [exploration_diversity_thread] EXPLORATION Trial 10/10 DONE | Score: 243.60 | Time: 70.2min
+07:56:29 [exploration_diversity_thread] 
+============================================================
+07:56:29 [exploration_diversity_thread] EXPLORATION_DIVERSITY - OPTIMIZATION COMPLETE
+07:56:29 [exploration_diversity_thread]    Best Score: 311.33
+07:56:29 [exploration_diversity_thread]    Total Time: 19.28 hours
+07:56:29 [exploration_diversity_thread]    Best Params: {'gamma': 0.971020723025622, 'alpha': 0.00018264030220002184, 'batch_size': 32, 'buffer_capacity': 5000, 'update_target_every': 19, 'epsilon_decay': 0.9958214730179011, 'epsilon_min': 0.08355141520465736, 'uniform_episode_training_cap': 1638}
+07:56:29 [exploration_diversity_thread] ============================================================
+
+07:58:30 [strati_buff_thread] STRATI-BUFF Trial 7/10 DONE | Score: 302.86 | Time: 81.9min
+07:58:30 [strati_buff_thread] STRATI-BUFF Trial 8/10 STARTED
+08:21:39 [strati_buff_thread] STRATI-BUFF Trial 8/10 DONE | Score: 215.91 | Time: 23.2min
+08:21:39 [strati_buff_thread] STRATI-BUFF Trial 9/10 STARTED
+08:46:38 [strati_buff_thread] STRATI-BUFF Trial 9/10 DONE | Score: 321.85 | Time: 25.0min
+08:46:38 [strati_buff_thread] STRATI-BUFF Trial 10/10 STARTED
+09:03:39 [strati_buff_thread] STRATI-BUFF Trial 10/10 DONE | Score: 170.66 | Time: 17.0min
+09:03:39 [strati_buff_thread] 
+============================================================
+09:03:39 [strati_buff_thread] STRATI_BUFF - OPTIMIZATION COMPLETE
+09:03:39 [strati_buff_thread]    Best Score: 336.64
+09:03:39 [strati_buff_thread]    Total Time: 20.40 hours
+09:03:39 [strati_buff_thread]    Best Params: {'gamma': 0.9942908176685565, 'alpha': 0.0003995810953782109, 'batch_size': 64, 'buffer_capacity': 10000, 'update_target_every': 16, 'epsilon_decay': 0.9969605966259503, 'epsilon_min': 0.04754990639748904}
+09:03:39 [strati_buff_thread] ============================================================
+
+09:03:39 [MainThread     ] 
+================================================================================
+09:03:39 [MainThread     ] ALL OPTIMIZATIONS COMPLETED
+09:03:39 [MainThread     ] ================================================================================
+09:03:39 [MainThread     ] 
+SUMMARY:
+09:03:39 [MainThread     ] 
+ACL:
+09:03:39 [MainThread     ]   Best Score: 310.87
+09:03:39 [MainThread     ]   Time: 17.65h
+09:03:39 [MainThread     ]   Best Params:
+09:03:39 [MainThread     ]     gamma: 0.9968089560231825
+09:03:39 [MainThread     ]     alpha: 0.00038225398443744675
+09:03:39 [MainThread     ]     batch_size: 32
+09:03:39 [MainThread     ]     buffer_capacity: 10000
+09:03:39 [MainThread     ]     update_target_every: 12
+09:03:39 [MainThread     ]     epsilon_decay: 0.9970436557796943
+09:03:39 [MainThread     ]     epsilon_min: 0.07318087530582228
+09:03:39 [MainThread     ]     uniform_episode_training_cap: 1606
+09:03:39 [MainThread     ] 
+BASELINE:
+09:03:39 [MainThread     ]   Best Score: 364.74
+09:03:39 [MainThread     ]   Time: 19.00h
+09:03:39 [MainThread     ]   Best Params:
+09:03:39 [MainThread     ]     gamma: 0.9912975879835498
+09:03:39 [MainThread     ]     alpha: 0.00019346542183274558
+09:03:39 [MainThread     ]     batch_size: 32
+09:03:39 [MainThread     ]     buffer_capacity: 10000
+09:03:39 [MainThread     ]     update_target_every: 6
+09:03:39 [MainThread     ]     epsilon_decay: 0.9973976177726743
+09:03:39 [MainThread     ]     epsilon_min: 0.016384116769024806
+09:03:39 [MainThread     ] 
+EXPLORATION_DIVERSITY:
+09:03:40 [MainThread     ]   Best Score: 311.33
+09:03:40 [MainThread     ]   Time: 19.28h
+09:03:40 [MainThread     ]   Best Params:
+09:03:40 [MainThread     ]     gamma: 0.971020723025622
+09:03:40 [MainThread     ]     alpha: 0.00018264030220002184
+09:03:40 [MainThread     ]     batch_size: 32
+09:03:40 [MainThread     ]     buffer_capacity: 5000
+09:03:40 [MainThread     ]     update_target_every: 19
+09:03:40 [MainThread     ]     epsilon_decay: 0.9958214730179011
+09:03:40 [MainThread     ]     epsilon_min: 0.08355141520465736
+09:03:40 [MainThread     ]     uniform_episode_training_cap: 1638
+09:03:40 [MainThread     ] 
+STRATI_BUFF:
+09:03:40 [MainThread     ]   Best Score: 336.64
+09:03:40 [MainThread     ]   Time: 20.40h
+09:03:40 [MainThread     ]   Best Params:
+09:03:40 [MainThread     ]     gamma: 0.9942908176685565
+09:03:40 [MainThread     ]     alpha: 0.0003995810953782109
+09:03:40 [MainThread     ]     batch_size: 64
+09:03:40 [MainThread     ]     buffer_capacity: 10000
+09:03:40 [MainThread     ]     update_target_every: 16
+09:03:40 [MainThread     ]     epsilon_decay: 0.9969605966259503
+09:03:40 [MainThread     ]     epsilon_min: 0.04754990639748904
+09:03:40 [MainThread     ] 
+ ALL DONE!
+09:03:40 [MainThread     ] 
+================================================================================
+09:03:40 [MainThread     ] TRAINING FINAL MODELS WITH BEST HYPERPARAMETERS
+09:03:40 [MainThread     ] ================================================================================
+09:03:40 [MainThread     ] 
+Training baseline with best parameters...
+09:28:06 [MainThread     ] Saved optimized model to baseline_optimized_policy.pth
+09:28:06 [MainThread     ] 
+Training strati_buff with best parameters...
+09:52:12 [MainThread     ] Saved optimized model to strati_buff_optimized_policy.pth
+09:52:12 [MainThread     ] 
+Training acl with best parameters...
+11:11:56 [MainThread     ] Saved optimized model to acl_optimized_policy.pth
+11:11:56 [MainThread     ] 
+Training exploration_diversity with best parameters...
+11:45:32 [MainThread     ] Saved optimized model to exploration_diversity_optimized_policy.pth
+11:45:32 [MainThread     ] 
+================================================================================
+11:45:32 [MainThread     ] COMPLETE! All models optimized and trained.

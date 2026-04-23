@@ -1,0 +1,16 @@
+{
+  "model": "acl",
+  "best_value": 310.868,
+  "best_params": {
+    "gamma": 0.9968089560231825,
+    "alpha": 0.00038225398443744675,
+    "batch_size": 32,
+    "buffer_capacity": 10000,
+    "update_target_every": 12,
+    "epsilon_decay": 0.9970436557796943,
+    "epsilon_min": 0.07318087530582228,
+    "uniform_episode_training_cap": 1606
+  },
+  "total_time_hours": 17.647709846666668,
+  "timestamp": "2025-10-17T06:18:33.820720"
+}

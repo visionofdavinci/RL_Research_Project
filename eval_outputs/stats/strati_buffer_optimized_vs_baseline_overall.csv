@@ -1,0 +1,2 @@
+pole_length,n_baseline,n_method,mean_baseline,mean_method,diff_mean,t_stat,t_p_value,mw_u,mw_p_value,hedges_g,t_reject_holm,mw_reject_holm
+ALL,300,300,9983.793333333333,158.81666666666666,-9824.976666666666,-14.903145927614482,6.018887228435008e-38,8977.0,1.4335243444764669e-64,-1.2153099981419693,,

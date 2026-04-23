@@ -1,0 +1,15 @@
+{
+  "model": "strati_buff",
+  "best_value": 336.642,
+  "best_params": {
+    "gamma": 0.9942908176685565,
+    "alpha": 0.0003995810953782109,
+    "batch_size": 64,
+    "buffer_capacity": 10000,
+    "update_target_every": 16,
+    "epsilon_decay": 0.9969605966259503,
+    "epsilon_min": 0.04754990639748904
+  },
+  "total_time_hours": 20.399417848333332,
+  "timestamp": "2025-10-17T09:03:39.950560"
+}
